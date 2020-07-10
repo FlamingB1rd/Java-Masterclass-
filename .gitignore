@@ -1,0 +1,5 @@
+#Ignore these projects because they are in the same folder as the Masterclass but are unrelated and I'm too lazy to 
+#refactor their positions xD 
+SAP_Project/
+test/
+VisabilityTest/
